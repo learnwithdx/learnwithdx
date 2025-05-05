@@ -6,10 +6,10 @@ Welcome to **LearnWithDx** – your go-to hub for learning **Computer Science** 
 
 ## 📺 About My YouTube Channel
 
-🎯 **Mission**: To make Computer Science fun, simple, and accessible for everyone!  
-💻 From coding tutorials to CS fundamentals, I cover topics that help you become a better programmer.  
-🧠 Simplified explanations, real-world examples, and bite-sized videos – all with zero fluff!
-📌 Subscribe here: [@LearnWithDx on YouTube](https://www.youtube.com/@LearnWithDx)  
+- 🎯 **Mission**: To make Computer Science fun, simple, and accessible for everyone!  
+- 💻 From coding tutorials to CS fundamentals, I cover topics that help you become a better programmer.  
+- 🧠 Simplified explanations, real-world examples, and bite-sized videos – all with zero fluff!
+- 📌 Subscribe here: [@LearnWithDx on YouTube](https://www.youtube.com/@LearnWithDx)  
 
 ---
 
