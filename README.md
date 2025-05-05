@@ -10,9 +10,6 @@ Welcome to **LearnWithDx** – your go-to hub for learning **Computer Science** 
 💻 From coding tutorials to CS fundamentals, I cover topics that help you become a better programmer.  
 🧠 Simplified explanations, real-world examples, and bite-sized videos – all with zero fluff!
 📌 Subscribe here: [@LearnWithDx on YouTube](https://www.youtube.com/@LearnWithDx)  
-🔔 Don’t forget to hit the bell icon and stay updated with new uploads!
-
----
 
 ---
 
