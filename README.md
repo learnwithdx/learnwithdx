@@ -27,7 +27,7 @@ Welcome to **LearnWithDx** – your go-to hub for learning **Computer Science** 
 
 ## 🧑‍🎓 Who Am I?
 
-I'm **Dx**, a passionate tech enthusiast and self-taught programmer who loves sharing knowledge and helping others break into tech! 🎉  
+I'm **Nishant**, a passionate tech enthusiast and self-taught programmer who loves sharing knowledge and helping others break into tech! 🎉  
 If you're starting your CS journey or want to level up your skills – you're in the right place!
 
 ---
